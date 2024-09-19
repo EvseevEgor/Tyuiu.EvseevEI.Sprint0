@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tyuiu.EvseevEI.Sprint0.Task1.V0": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
