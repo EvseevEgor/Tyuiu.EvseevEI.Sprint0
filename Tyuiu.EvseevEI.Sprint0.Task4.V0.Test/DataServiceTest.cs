@@ -15,7 +15,7 @@ namespace Tyuiu.EvseevEI.Sprint0.Task4.V0.Test
         }
         public void CheckedMultiplicationValid()
         {
-            Assert.AreEqual(50, DataService.Multiplication(10, 5));
+            Assert.AreEqual(50, DataService.Multiplications(10, 5));
         }
         public void CheckedDivisionValid()
         {
